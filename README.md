@@ -30,5 +30,5 @@ The above step applies to only columns in the TEXT format i.e. EmployeeID, Gende
 Handling all "nan" values.																		
 I replaced all "nan" values with empty spaces. (Select header - Replace Values - Enter the value you want to find(NAN) and what you want to replace it with (leave it blank) in the given boxes - OK)																		
 
-CHALLENGES FACED
+CHALLENGES FACED:
 Missing values within the dataset.
